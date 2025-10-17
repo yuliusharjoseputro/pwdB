@@ -1,0 +1,35 @@
+/* Mengatur tampilan umum halaman */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+/* Mengatur judul */
+h1 {
+  color: #0066cc;
+  text-align: center;
+}
+
+/* Mengatur paragraf */
+p {
+  font-size: 16px;
+  color: #333333;
+  text-align: center;
+}
+
+/* Mengatur tombol */
+button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #0099ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: yellow;
+}
